@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: d071d297ebd4411428e60de8024e90bc
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    4300000: elevator
+    4300002: elevDoorOuter
+    4300004: elevNumbPanel
+    4300006: buttons
+    4300008: btnLight00
+    4300010: btnLight18
+    4300012: btnLight16
+    4300014: btnLight14
+    4300016: btnLight11
+    4300018: btnLight09
+    4300020: btnLight07
+    4300022: btnLight05
+    4300024: btnLight03
+    4300026: btnLight01
+    4300028: btnLightOpen
+    4300030: btnLight19
+    4300032: btnLight17
+    4300034: btnLight15
+    4300036: btnLight12
+    4300038: btnLight10
+    4300040: btnLight08
+    4300042: btnLight06
+    4300044: btnLight04
+    4300046: btnLight02
+    4300048: btnLightHelp
+    4300050: elevLED
+    4300052: elevDoorInner
+    4300054: elevPotlight4Rim
+    4300056: elevPotlight4Light
+    4300058: elevPotlight3Rim
+    4300060: elevPotlight3Light
+    4300062: elevPotlight2Rim
+    4300064: elevPotlight2Light
+    4300066: elevPotlight1Rim
+    4300068: elevPotlight1Light
+    4300070: elevFootGuardR
+    4300072: elevFootGuard
+    4300074: elevFootGuardL
+    4300076: elevHandRailR
+    4300078: elevHandRail
+    4300080: elevHandRailL
+    4300082: elevHallFrame
+    4300084: elevHallFrameLED
+    4300086: elevCallBtnPanel
+    4300088: btnCallLight
+    4300090: buttonCall
+    4300092: elevFramDoorR
+    4300094: elevFrameDoorL
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CloseDoors
+      takeName: 
+      firstFrame: 0
+      lastFrame: 89
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: OpenDoors
+      takeName: 
+      firstFrame: 90
+      lastFrame: 186
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

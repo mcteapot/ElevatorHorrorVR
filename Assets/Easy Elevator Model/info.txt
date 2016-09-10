@@ -1,0 +1,20 @@
+Nifty Studios Inc. 2014 v1.0
+info@niftystudios.com
+http://niftystudios.com
+
+Easy Elevator Model
+
+
+This model was originaly created for the "Elevator Horror" Oculus Rift experience.
+
+In this package:
+2 prefabs - Elevator | Hall Door Frame
+1 fbx model
+Materials
+multiple Textures - Diffuse with Alpha for Spec | Normal maps | LED Panel Textures and Illumination
+1 Reflection Map
+
+Demo Scene - Shows the Elevator with animations.
+
+
+
