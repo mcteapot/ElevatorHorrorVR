@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5B9A1051-B120-4B76-1ED0-6E50E5753A00}") = "Hellevator", "Assembly-CSharp.csproj", "{EE6DDC7E-00AD-009D-CDAF-3807F523294F}"
+EndProject
+Project("{5B9A1051-B120-4B76-1ED0-6E50E5753A00}") = "Hellevator", "Assembly-CSharp-Editor.csproj", "{5908EBC5-C8D0-F128-6DB7-F9672518693C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE6DDC7E-00AD-009D-CDAF-3807F523294F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE6DDC7E-00AD-009D-CDAF-3807F523294F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE6DDC7E-00AD-009D-CDAF-3807F523294F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE6DDC7E-00AD-009D-CDAF-3807F523294F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5908EBC5-C8D0-F128-6DB7-F9672518693C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5908EBC5-C8D0-F128-6DB7-F9672518693C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5908EBC5-C8D0-F128-6DB7-F9672518693C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5908EBC5-C8D0-F128-6DB7-F9672518693C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
