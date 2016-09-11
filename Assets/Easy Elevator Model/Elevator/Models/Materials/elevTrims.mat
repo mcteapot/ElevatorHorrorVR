@@ -18,7 +18,7 @@ Material:
     - first:
         name: _BumpMap
       second:
-        m_Texture: {fileID: 2800000, guid: f8573b688cb5b89498036ee31f36d522, type: 3}
+        m_Texture: {fileID: 2800000, guid: 4487d2b243ab54bf882c07f355e3eb70, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - first:
@@ -30,20 +30,20 @@ Material:
     - first:
         name: _MainTex
       second:
-        m_Texture: {fileID: 2800000, guid: d320c6ba696271c478b4d2aaaa40a97f, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Texture: {fileID: 2800000, guid: fef4da8bacc584674b5f6d68ec2de9d9, type: 3}
+        m_Scale: {x: 2, y: 4}
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - first:
         name: _Shininess
-      second: 0.18365899
+      second: 0.051
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+      second: {r: 0.88235295, g: 0.88235295, b: 0.88235295, a: 1}
     - first:
         name: _ReflectColor
-      second: {r: 0.23134327, g: 0.23134327, b: 0.23134327, a: 0.5019608}
+      second: {r: 0.18382353, g: 0.18382353, b: 0.18382353, a: 0.5019608}
     - first:
         name: _SpecColor
-      second: {r: 0.8134328, g: 0.8134328, b: 0.8134328, a: 1}
+      second: {r: 0.9558824, g: 0.9558824, b: 0.9558824, a: 1}
