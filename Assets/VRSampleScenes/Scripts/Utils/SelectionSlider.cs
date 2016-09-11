@@ -156,6 +156,7 @@ namespace VRStandardAssets.Utils
 
         private void HandleDown ()
         {
+			Debug.Log("Handle Down");
             // If the user is looking at the bar start the FillBar coroutine and store a reference to it.
             if (m_GazeOver)
                 m_FillBarRoutine = StartCoroutine(FillBar());
@@ -164,6 +165,7 @@ namespace VRStandardAssets.Utils
 
         private void HandleUp ()
         {
+			Debug.Log("Handle Up");
             // If the coroutine has been started (and thus we have a reference to it) stop it.
             if(m_FillBarRoutine != null)
                 StopCoroutine (m_FillBarRoutine);
@@ -176,6 +178,7 @@ namespace VRStandardAssets.Utils
 
         private void HandleOver ()
         {
+			Debug.Log("Handle Over");
             // The user is now looking at the bar.
             m_GazeOver = true;
 
@@ -187,6 +190,7 @@ namespace VRStandardAssets.Utils
 
         private void HandleOut ()
         {
+			Debug.Log("Handle Out");
             // The user is no longer looking at the bar.
             m_GazeOver = false;
 
